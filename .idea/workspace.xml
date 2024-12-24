@@ -4,18 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26d39e87-3827-443b-bb1e-9639a3f068ee" name="Changes" comment="" />
+    <list default="true" id="26d39e87-3827-443b-bb1e-9639a3f068ee" name="Changes" comment="20th dec">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Task/task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Task/task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_23122024/Selenium16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_23122024/Selenium17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_23122024/Selenium18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_23122024/Selenium19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Thanu49&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Thanu49/SeleniumATB8x.git&quot;,
+    &quot;accountId&quot;: &quot;a7e33c73-2fdd-4a6f-81f6-b31f4e9c48c3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2qZ3reNzrLi9rfLTpbN9oNUglub" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -24,12 +53,137 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Selenium06.executor": "Run",
+    "Application.Selenium07.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.Selenium01.executor": "Run",
+    "TestNG.Selenium01.test_selenium.executor": "Run",
+    "TestNG.Selenium02.executor": "Run",
+    "TestNG.Selenium04.executor": "Run",
+    "TestNG.Selenium08.executor": "Run",
+    "TestNG.Selenium08.testmethod01.executor": "Run",
+    "TestNG.Selenium10.executor": "Run",
+    "TestNG.Selenium12.executor": "Run",
+    "TestNG.Selenium13.executor": "Run",
+    "TestNG.Selenium14.executor": "Run",
+    "TestNG.Selenium15.executor": "Run",
+    "TestNG.Selenium17.executor": "Run",
+    "TestNG.Selenium17.testMethod01.executor": "Run",
+    "TestNG.Selenium18.executor": "Run",
+    "TestNG.Selenium19.executor": "Run",
+    "TestNG.task_1.executor": "Run",
+    "TestNG.task_2.executor": "Run",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/IdeaProjects/SeleniumATB8x/src/test/java/com/thetestingacademy/ex02_20122024"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\SeleniumATB8x\src\test\java\com\thetestingacademy\ex02_20122024" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\SeleniumATB8x\src\test\java\com\thetestingacademy\ex02_20122024" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.task_2">
+    <configuration name="Selenium17" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumATB8x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex03_23122024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex03_23122024" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex03_23122024.Selenium17" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium18" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumATB8x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex03_23122024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex03_23122024" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex03_23122024.Selenium18" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium19" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumATB8x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex03_23122024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex03_23122024" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex03_23122024.Selenium19" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task_1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumATB8x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.Task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.Task" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.Task.task_1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task_2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumATB8x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.Task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.Task" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.Task.task_2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.task_2" />
+        <item itemvalue="TestNG.task_1" />
+        <item itemvalue="TestNG.Selenium17" />
+        <item itemvalue="TestNG.Selenium19" />
+        <item itemvalue="TestNG.Selenium18" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,6 +193,28 @@
       <option name="presentableId" value="Default" />
       <updated>1734856472486</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit and push all">
+      <option name="closed" value="true" />
+      <created>1734861241679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734861241679</updated>
+    </task>
+    <task id="LOCAL-00002" summary="20th dec">
+      <option name="closed" value="true" />
+      <created>1734868706849</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734868706849</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit and push all" />
+    <MESSAGE value="20th dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="20th dec" />
   </component>
 </project>
