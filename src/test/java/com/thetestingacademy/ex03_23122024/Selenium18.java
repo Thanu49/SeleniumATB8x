@@ -18,11 +18,13 @@ public class Selenium18 {
         WebDriver driver = new EdgeDriver(edgeOptions);
         driver.get("https://app.vwo.com");
 
+        Thread.sleep(3000);
+
+
         WebElement link_freetrail= driver.findElement(By.linkText("Start a free trial"));
         link_freetrail.click();
 
 
-        Thread.sleep(3000);
 
         driver.quit();
     }
