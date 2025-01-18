@@ -4,15 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26d39e87-3827-443b-bb1e-9639a3f068ee" name="Changes" comment="20th dec">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Task/task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Task/task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_23122024/Selenium16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_23122024/Selenium17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_23122024/Selenium18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_23122024/Selenium19.java" afterDir="false" />
+    <list default="true" id="26d39e87-3827-443b-bb1e-9639a3f068ee" name="Changes" comment="Task">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Actionclass/Actionclass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Actionclass/Actions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Actionclass/Actions3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Actionclass/Pagedown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Actionclass/Uploadfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Datadriventesting/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ExcelReader/Excel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Fileupload/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Fileupload/browserstack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Fileupload/sample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/SVG/Selenium_svg_map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/SVG/Selenium_svg_p1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Task/Task3_30dec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Webtables/SElenium_webtable_static2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Webtables/Selenium_dynamic_path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Webtables/webtable_static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Windows/handlewindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/draganddrop/draganddrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_30122024/Selenium20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_30122024/Selenium21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_30122024/Selenium22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_03012025/Selenium23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex06_06012025/Relative_locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/filehandling/Excel_reading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/filehandling/read_excel_data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/filehandling/write_to_particular_cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/iframe/Selenium_all3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/resource/AdBlock.crx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/resource/CTD1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/resource/example.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/resource/text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/resource/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/shadow_dom/Selenium_javascriptexecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/shadow_dom/shadowdom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/wait_action_window_svg/Selenium_explicitrwait2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/wait_action_window_svg/Selenium_explicitwait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/wait_action_window_svg/Selenium_fluentwaitr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/wait_action_window_svg/Selenium_implicitlywait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/wait_action_window_svg/Selenium_input_checkbox_radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/wait_action_window_svg/Selenium_jsalerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/wait_action_window_svg/Selenium_select_dropdown.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,54 +86,109 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Selenium06.executor": "Run",
-    "Application.Selenium07.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.Selenium01.executor": "Run",
-    "TestNG.Selenium01.test_selenium.executor": "Run",
-    "TestNG.Selenium02.executor": "Run",
-    "TestNG.Selenium04.executor": "Run",
-    "TestNG.Selenium08.executor": "Run",
-    "TestNG.Selenium08.testmethod01.executor": "Run",
-    "TestNG.Selenium10.executor": "Run",
-    "TestNG.Selenium12.executor": "Run",
-    "TestNG.Selenium13.executor": "Run",
-    "TestNG.Selenium14.executor": "Run",
-    "TestNG.Selenium15.executor": "Run",
-    "TestNG.Selenium17.executor": "Run",
-    "TestNG.Selenium17.testMethod01.executor": "Run",
-    "TestNG.Selenium18.executor": "Run",
-    "TestNG.Selenium19.executor": "Run",
-    "TestNG.task_1.executor": "Run",
-    "TestNG.task_2.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Lenovo/IdeaProjects/SeleniumATB8x/src/test/java/com/thetestingacademy/ex02_20122024"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Excel_reading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Selenium06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Selenium07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.read_excel_data.executor&quot;: &quot;Run&quot;,
+    &quot;Application.write_to_particular_cell.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.Actionclass1.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Actions2.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Actions2.test.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Actions3.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/Lenovo/IdeaProjects/SeleniumATB8x/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Example1.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Pagedown.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SElenium_webtable_static2.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium01.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium01.test_selenium.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium02.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium04.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium08.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium08.testmethod01.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium10.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium12.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium13.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium14.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium15.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium17.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium17.testMethod01.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium18.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium19.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium20.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium20.testcheck_box.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium21.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium22.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium23.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium_dynamic_path.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium_dynamic_path.testtables.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium_explicitrwait2.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium_explicitwait.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium_explicitwait.testMethod01.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium_fluentwaitr.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium_implicitlywait.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium_input_checkbox_radio.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium_javascriptexecutor.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium_jsalerts.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium_select_dropdown.dropdown.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium_select_dropdown.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium_svg_map.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium_svg_p1.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium_wait.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Task3_30dec.check_freetrailtext (1).executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.Task3_30dec.check_freetrailtext.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Task3_30dec.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Uploadfile.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.browserstack.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.draganddrop.sample1.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.handlewindows.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.sample2.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.shadowdom.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.task_1.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.task_2.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.test1.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.webtable_static.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.webtable_static.statictables.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/SeleniumATB8x/src/test/java/com/thetestingacademy/resource&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\SeleniumATB8x\src\test\java\com\thetestingacademy\resource" />
       <recent name="C:\Users\Lenovo\IdeaProjects\SeleniumATB8x\src\test\java\com\thetestingacademy\ex02_20122024" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\SeleniumATB8x\src\test\java\com\thetestingacademy\resource" />
       <recent name="C:\Users\Lenovo\IdeaProjects\SeleniumATB8x\src\test\java\com\thetestingacademy\ex02_20122024" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.task_2">
-    <configuration name="Selenium17" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/Lenovo/IdeaProjects/SeleniumATB8x/testng.xml">
+    <configuration name="C:/Users/Lenovo/IdeaProjects/SeleniumATB8x/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumATB8x" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumATB8x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex03_23122024.*" />
+          <option name="PATTERN" value="com.thetestingacademy.Fileupload.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex03_23122024" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex03_23122024.Selenium17" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.Fileupload" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.Fileupload.Example1" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -106,16 +196,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium18" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="browserstack" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumATB8x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex03_23122024.*" />
+          <option name="PATTERN" value="com.thetestingacademy.Fileupload.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex03_23122024" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex03_23122024.Selenium18" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.Fileupload" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.Fileupload.browserstack" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -123,50 +213,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium19" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="draganddrop.sample1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumATB8x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex03_23122024.*" />
+          <option name="PATTERN" value="com.thetestingacademy.draganddrop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex03_23122024" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex03_23122024.Selenium19" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.draganddrop" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.draganddrop.draganddrop" />
+      <option name="METHOD_NAME" value="sample1" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task_1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="sample2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumATB8x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.Task.*" />
+          <option name="PATTERN" value="com.thetestingacademy.Fileupload.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.Task" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.Task.task_1" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="task_2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumATB8x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.Task.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.Task" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.Task.task_2" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.Fileupload" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.Fileupload.sample2" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -176,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.task_2" />
-        <item itemvalue="TestNG.task_1" />
-        <item itemvalue="TestNG.Selenium17" />
-        <item itemvalue="TestNG.Selenium19" />
-        <item itemvalue="TestNG.Selenium18" />
+        <item itemvalue="TestNG.C:/Users/Lenovo/IdeaProjects/SeleniumATB8x/testng.xml" />
+        <item itemvalue="TestNG.draganddrop.sample1" />
+        <item itemvalue="TestNG.browserstack" />
+        <item itemvalue="TestNG.sample2" />
+        <item itemvalue="TestNG.Example1" />
       </list>
     </recent_temporary>
   </component>
@@ -209,12 +283,37 @@
       <option name="project" value="LOCAL" />
       <updated>1734868706849</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Task">
+      <option name="closed" value="true" />
+      <created>1735062571462</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735062571464</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Task">
+      <option name="closed" value="true" />
+      <created>1737191689447</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737191689447</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Task">
+      <option name="closed" value="true" />
+      <created>1737191918794</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737191918794</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit and push all" />
     <MESSAGE value="20th dec" />
-    <option name="LAST_COMMIT_MESSAGE" value="20th dec" />
+    <MESSAGE value="Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task" />
   </component>
 </project>

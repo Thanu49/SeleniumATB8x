@@ -1,0 +1,30 @@
+package com.thetestingacademy.ex04_30122024;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.edge.EdgeOptions;
+import org.testng.annotations.Test;
+
+public class Selenium20 {
+
+    @Test
+    public void testcheck_box() throws Exception{
+
+        EdgeOptions edgeOptions=new EdgeOptions();
+        edgeOptions.addArguments("--start-maximized");
+
+        WebDriver driver =new EdgeDriver(edgeOptions);
+        driver.get("https://awesomeqa.com/practice.html");
+        WebElement checkbox= driver.findElement(By.id("sex-0"));
+        checkbox.click();
+
+        Thread.sleep(3000);
+
+        driver.quit();
+
+
+    }
+
+}
