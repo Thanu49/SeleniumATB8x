@@ -1,5 +1,6 @@
 package com.thetestingacademy.ex03_23122024;
 
+import io.qameta.allure.Description;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -9,6 +10,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class Selenium17 {
+    @Description("verify the report")
     @Test
     public  void    testMethod01() throws Exception{
 
